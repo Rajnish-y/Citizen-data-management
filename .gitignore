@@ -25,3 +25,6 @@ backend/.env
 # Lock files (optional — keep if you want reproducible installs)
 package-lock.json
 yarn.lock
+# Environment variables
+frontend/.env
+backend/.env
